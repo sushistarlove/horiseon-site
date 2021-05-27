@@ -8,6 +8,3 @@
 You can use this webpage for inspiration to create your own pages. You could also use it to further your undertsanding of semantic HTML and CSS.
 ## Credits
 I did not collab with anyone for this project. 
-## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
----
